@@ -82,6 +82,7 @@ bash go.sh
 **Downloads:**
 
 <a href="https://www.torproject.org/download/">Tor Browser</a>
+<a href="https://rustup.rs/">Rustup</a> an installer for the systems programming language Rust
 
 
 

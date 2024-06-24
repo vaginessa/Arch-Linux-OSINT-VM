@@ -17,3 +17,4 @@ pacman -S metasploit maltego gophish
 pacman -S blackarch-stego
 pacman -S wpscan evil-winrm
 pacman -S burpsuite
+pacman -S sn0int

@@ -59,6 +59,10 @@ reboot
 
 ```console
 
+git clone https://github.com/midnit3Z0mbi3/ArchLinux_OSINT_VM.git
+
+chmod +x *.sh
+
 sudo bash archLinux_osint_packages_pacman.sh
 
 bash archLinux_osint_packages_yay.sh

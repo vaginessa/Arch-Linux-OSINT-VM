@@ -20,7 +20,7 @@ Start Virtual Machine.
 
 Update and Upgrade.
 
-Install <a href="https://blackarch.org/downloads.html">BlackArch</a> Repository.
+**Install <a href="https://blackarch.org/downloads.html">BlackArch</a> Repository:**
 
 ```console
 
@@ -55,7 +55,7 @@ reboot
 
 ```
 
-**Install**
+**Install:**
 
 ```console
 

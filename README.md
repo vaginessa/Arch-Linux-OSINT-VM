@@ -161,6 +161,15 @@ gowitness,
 katana,
 gotop
 
+## Resources
+
+BigggChungus onion-links - 2024 Dark Web Links & .Onion Links
+
+01Kevin01 OnionLinksV3 - 2024 Onion Links V3 (Forum&Chat&Markets)
+
+fastfire deepdarkCTI - Collection of Cyber Threat Intelligence sources from the deep and dark web 
+
+
 
 
 ## **Install:**

@@ -128,7 +128,7 @@ wpscan,
 evil-winrm,
 burpsuite,
 sn0int,
-yt-dlp,
+yt-dlp
 
 Yay Package Manager:
 

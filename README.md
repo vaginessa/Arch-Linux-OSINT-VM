@@ -35,6 +35,7 @@ ignorant,
 masto,
 social-analyzer,
 telepathy,
+recoverpy,
 postleaks,
 postleaksNg
 

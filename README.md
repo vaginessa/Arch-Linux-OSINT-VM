@@ -148,6 +148,7 @@ Snap Packages:
 
 powershell,
 localxpose
+youtube-dl-pro
 
 Go Packages:
 

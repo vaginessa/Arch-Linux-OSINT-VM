@@ -16,5 +16,6 @@ pacman -S ngrok telegram-desktop pidgin gajim
 pacman -S metasploit maltego gophish
 pacman -S blackarch-stego
 pacman -S wpscan evil-winrm
+pacman -S sqlitebrowser
 pacman -S burpsuite
 pacman -S sn0int

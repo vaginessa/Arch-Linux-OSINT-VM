@@ -4,7 +4,7 @@ pacman -S keepassxc wireshark-qt aircrack-ng
 pacman -S gospider hakrawler ffuf seclists filezilla 
 pacman -S python-virtualenv python-pipx python-pip
 pacman -S httrack sherlock eyewitness sublist3r photon recon-ng
-pacman -S go postgresql ngrep
+pacman -S go postgresql ngrep yt-dlp
 pacman -S nmap tcpdump php audacity gimp
 pacman -S librecad libreoffice
 pacman -S cherrytree ripgrep wordlister crunch hashcat

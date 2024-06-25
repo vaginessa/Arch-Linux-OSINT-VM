@@ -177,6 +177,10 @@ cipher387 osint_stuff_tool_collection - A collection of several hundred online t
 
 cipher387 Dorks-collections-list - List of Github repositories and articles with list of dorks for different search engines 
 
+cipher387 WebCam-Google-Shodan-Dorks - Google & Shodan Dorks for WebCam
+
+cipher387 cheatsheets - High quality and text versions of cheat sheets from Cyber Detective Twitter 
+
 swisskyrepo InternalAllTheThings - Active Directory and Internal Pentest Cheatsheets 
 
 Snifer security-cheatsheets - A collection of cheatsheets for various infosec tools and topics. 

@@ -151,6 +151,16 @@ Snap Packages:
 powershell,
 localxpose
 
+Go Packages:
+
+waybackurls,
+amass,
+amass oam-tools,
+httprobe,
+gowitness,
+katana,
+gotop
+
 
 
 ## **Install:**

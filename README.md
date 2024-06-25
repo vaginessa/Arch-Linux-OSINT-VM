@@ -147,7 +147,7 @@ protonvpn-cli-community
 Snap Packages:
 
 powershell,
-localxpose
+localxpose,
 youtube-dl-pro
 
 Go Packages:

@@ -14,6 +14,11 @@ pipx install name-that-hash
 pipx install h8mail
 pipx install domain-stats
 pipx install gitem
+pipx install gitfive
+pipx install ignorant
+pipx install masto
+pipx install social-analyzer
+pipx install telepathy
 pipx install whisper-ctranslate2
 pipx install checkdmarc
 pipx install shodan

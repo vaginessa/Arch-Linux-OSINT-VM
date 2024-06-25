@@ -183,7 +183,7 @@ cipher387 cheatsheets - High quality and text versions of cheat sheets from Cybe
 
 swisskyrepo InternalAllTheThings - Active Directory and Internal Pentest Cheatsheets 
 
-Snifer security-cheatsheets - A collection of cheatsheets for various infosec tools and topics. 
+andrewjkerr security-cheatsheets - A collection of cheatsheets for various infosec tools and topics. 
 
 
 

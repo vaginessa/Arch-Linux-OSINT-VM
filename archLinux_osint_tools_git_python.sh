@@ -128,7 +128,6 @@ git clone https://github.com/proabiral/Fresh-Resolvers.git
 git clone https://github.com/schooldropout1337/lazyegg.git
 git clone https://github.com/rndinfosecguy/TrashSearch.git
 git clone https://github.com/asciinema/agg.git
-git clone https://github.com/fastfire/deepdarkCTI.git
 
 python3 -m venv proxybroker2
 source proxybroker2/bin/activate
@@ -145,6 +144,7 @@ mkdir tor-links
 cd tor-links
 git clone https://github.com/BigggChungus/onion-links.git
 git clone https://github.com/01Kevin01/OnionLinksV3.git
+git clone https://github.com/fastfire/deepdarkCTI.git
 
 cd
 mkdir ~/.config/amass

@@ -128,6 +128,7 @@ git clone https://github.com/proabiral/Fresh-Resolvers.git
 git clone https://github.com/schooldropout1337/lazyegg.git
 git clone https://github.com/rndinfosecguy/TrashSearch.git
 git clone https://github.com/asciinema/agg.git
+git clone https://github.com/fastfire/deepdarkCTI.git
 
 python3 -m venv proxybroker2
 source proxybroker2/bin/activate

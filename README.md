@@ -1,5 +1,8 @@
 # ArchLinux_OSINT_VM
 
+## Description
+OSINT virtual machine with 100+ OSINT tools, cheatsheets, and other resources to help you in your OSINT investigation. 
+
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/pablocorbalann/arch-minimal-wallpapers/main/wallpapers/4k/material-ocean.png" alt="arch linux minimal wallpaper. black background and purple arch linux logo." width="65%" height="65%">  

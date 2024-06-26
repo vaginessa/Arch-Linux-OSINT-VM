@@ -1,5 +1,7 @@
 # ArchLinux_OSINT_VM
 
+<meta name="google-site-verification" content="2Fk7c3JK9imbGOY-IY7O1pHWesIAxN08QmUCMLLhh8Q" />
+
 ## Description
 OSINT virtual machine with 100+ OSINT tools, cheatsheets, bookmarks, and other resources to help you in your OSINT investigation. 
 
@@ -312,5 +314,3 @@ I would recommend using the search tools he provides. As well as the flow charts
 </div>
 <br><br><br>
 
-
-<meta name="google-site-verification" content="2Fk7c3JK9imbGOY-IY7O1pHWesIAxN08QmUCMLLhh8Q" />

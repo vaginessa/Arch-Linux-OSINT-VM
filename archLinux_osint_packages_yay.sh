@@ -12,3 +12,4 @@ yay google-chrome
 yay drawio
 yay snapd
 yay protonvpn-cli-community
+yay hciconfig

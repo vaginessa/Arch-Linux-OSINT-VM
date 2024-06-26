@@ -1,4 +1,6 @@
-<meta name="google-site-verification" content="2Fk7c3JK9imbGOY-IY7O1pHWesIAxN08QmUCMLLhh8Q" />
+<head>
+  <meta name="google-site-verification" content="2Fk7c3JK9imbGOY-IY7O1pHWesIAxN08QmUCMLLhh8Q" />
+</head>
 
 # ArchLinux_OSINT_VM
 

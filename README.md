@@ -294,13 +294,9 @@ the firefox extension store, firefox ADD-Ons, has a lot of useful AI web extensi
 InVID WeVerify, ublock origin, adguard, downthemall, fireshot,  singleFile, onetab, reveye reverse search, web archives
 
 the chrome web store has a lot of useful AI web extensions, and other extensions that can aid in your research.
-
-
-<h2> 
+<br>
   
 ## **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
- 
-</h2>
 
 
 <br>

@@ -131,11 +131,13 @@ metasploit,
 maltego, 
 gophish,
 blackarch-stego tools,
+blackarch-bluetooth,
 wpscan, 
 evil-winrm,
 burpsuite,
 sn0int,
-yt-dlp
+yt-dlp,
+kismet, bettercap, routersploit, sqlitebrowser, hydra
 
 Yay Package Manager:
 

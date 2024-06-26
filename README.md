@@ -137,6 +137,7 @@ evil-winrm,
 burpsuite,
 sn0int,
 yt-dlp,
+netcat,
 kismet, bettercap, routersploit, sqlitebrowser, hydra
 
 Yay Package Manager:

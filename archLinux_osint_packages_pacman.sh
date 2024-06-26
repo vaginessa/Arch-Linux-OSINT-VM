@@ -20,3 +20,6 @@ pacman -S wpscan evil-winrm netcat
 pacman -S kismet bettercap routersploit
 pacman -S burpsuite
 pacman -S sn0int sqlitebrowser hydra
+
+systemctl start sshd
+systemctl enable sshd

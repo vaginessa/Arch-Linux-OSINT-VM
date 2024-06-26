@@ -291,7 +291,9 @@ bash go.sh
 
 extract custom_search_tools.tar.gz to your ~/Desktop directory
 
-edit bookmark "Custom Search Tools"
+Press Ctrl+Shift+o and import osint_bookmarks.json or osint_bookmarks.html
+
+Right Click on "Custom Search Tools" Bookmark, and select "edit bookmark" 
 
 edit the URL: section of the bookmark. Change "USER" to your actual username. 
 

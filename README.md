@@ -142,6 +142,8 @@ kismet, bettercap, routersploit, sqlitebrowser, hydra
 
 Yay Package Manager:
 
+rtl8812au-openhd-dkms-git,
+hciconfig,
 gallery-dl,
 setuptools_scm,
 python-sqlglot,

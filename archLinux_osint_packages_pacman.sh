@@ -15,7 +15,8 @@ pacman -S thunderbird exiflooter flowblade
 pacman -S ngrok telegram-desktop pidgin gajim
 pacman -S metasploit maltego gophish
 pacman -S blackarch-stego
+pacman -S blackarch-bluetooth
 pacman -S wpscan evil-winrm
-pacman -S sqlitebrowser
+pacman -S kismet bettercap routersploit
 pacman -S burpsuite
-pacman -S sn0int
+pacman -S sn0int sqlitebrowser hydra

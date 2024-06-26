@@ -1,5 +1,6 @@
 #!/bin/bash
 
+yay rtl8812au-openhd-dkms-git
 yay gallery-dl
 yay setuptools_scm
 yay python-sqlglot

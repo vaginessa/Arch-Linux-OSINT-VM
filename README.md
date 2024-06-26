@@ -291,6 +291,8 @@ bash go.sh
 
 extract custom_search_tools.tar.gz to your ~/Desktop directory
 
+Open your browser
+
 Press Ctrl+Shift+o and import osint_bookmarks.json or osint_bookmarks.html
 
 Right-Click on "Custom Search Tools" Bookmark in the "Local Tools" folder, and select "edit bookmark" 

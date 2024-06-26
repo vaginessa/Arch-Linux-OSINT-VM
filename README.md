@@ -139,7 +139,7 @@ burpsuite,
 sn0int,
 yt-dlp,
 netcat,
-kismet, bettercap, routersploit, sqlitebrowser, hydra
+kismet, bettercap, routersploit, sqlitebrowser, hydra, wifite, reaver, bully, cowpatty, pyrit, macchanger, hcxdumptool, hcxtools, john
 
 Yay Package Manager:
 

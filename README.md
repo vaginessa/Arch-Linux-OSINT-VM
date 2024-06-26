@@ -289,6 +289,11 @@ edit the URL: section of the bookmark. Change "USER" to your actual username.
 example "file:///home/zombi3/Desktop/tools/index.html"
 
 
+## OSINT Templates
+
+extract OSINT_Templates_FlowchartsAndDocs.tar.gz to your ~/Templates directory
+
+
 ## **firefox extensions:**
 
 firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options, reveye reverse search,

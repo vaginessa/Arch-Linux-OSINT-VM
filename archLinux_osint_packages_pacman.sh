@@ -6,7 +6,7 @@ pacman -S python-virtualenv python-pipx python-pip
 pacman -S httrack sherlock eyewitness sublist3r photon recon-ng
 pacman -S go postgresql ngrep yt-dlp
 pacman -S nmap tcpdump php audacity gimp
-pacman -S librecad libreoffice
+pacman -S librecad libreoffice mimikatz
 pacman -S cherrytree ripgrep wordlister crunch hashcat
 pacman -S dbeaver proxychains tor
 pacman -S vlc mpv mat2 sequoia-sq

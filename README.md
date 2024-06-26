@@ -175,7 +175,7 @@ gotop
 
 ## Note:
 
-I have noticed archLinux_osint_snapd.sh will fail to install powershell.
+I have noticed archLinux_osint_packages_snapd.sh will fail to install powershell.
 
 If that happens, just run the following command
 

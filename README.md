@@ -173,6 +173,15 @@ gowitness,
 katana,
 gotop
 
+## Note:
+
+I have noticed archLinux_osint_snapd.sh will fail to install powershell.
+
+If that happens, just run the following command
+
+sudo snap install powershell --classic
+
+
 ## Resources
 
 OSINT Bookmarks. JSON and HTML.

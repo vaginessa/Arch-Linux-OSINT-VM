@@ -261,7 +261,7 @@ reboot
 
 ```console
 
-git clone https://github.com/midnit3Z0mbi3/ArchLinux_OSINT_VM.git
+git clone https://github.com/midnit3Z0mbi3/Arch-Linux-OSINT-VM.git
 
 chmod +x *.sh
 

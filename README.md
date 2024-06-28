@@ -67,7 +67,8 @@ Fresh-Resolvers,
 lazyegg,
 TrashSearch,
 agg,
-proxybroker2
+proxybroker2,
+GooFuzz
 
 
 

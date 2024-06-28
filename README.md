@@ -69,8 +69,6 @@ GitHub Repositories:
 [lazyegg](https://github.com/schooldropout1337/lazyegg.git),
 [TrashSearch](https://github.com/rndinfosecguy/TrashSearch.git),
 [agg](https://github.com/asciinema/agg.git),
-[X-osint](https://github.com/TermuxHackz/X-osint.git),
-[anonphisher](https://github.com/TermuxHackz/anonphisher),
 [proxybroker2](https://github.com/bluet/proxybroker2.git),
 [yt-dlp](https://github.com/yt-dlp/yt-dlp),
 [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz.git)

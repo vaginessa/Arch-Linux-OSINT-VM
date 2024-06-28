@@ -14,3 +14,5 @@ yay drawio
 yay snapd
 yay protonvpn-cli-community
 yay hciconfig
+
+gem install wpscan

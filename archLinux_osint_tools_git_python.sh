@@ -20,7 +20,6 @@ pipx install social-analyzer
 pipx install recoverpy
 pipx install whisper-ctranslate2
 pipx install checkdmarc
-pipx install shodan
 pipx install netlas
 pipx install postleaks
 pipx install postleaksNg
@@ -138,6 +137,13 @@ python3 -m venv proxybroker2
 source proxybroker2/bin/activate
 pip install -U git+https://github.com/bluet/proxybroker2.git
 deactivate
+
+python3 -m venv shodan
+source shodan/bin/activate
+pip install setuptools
+pip install shodan
+deactivate
+
 
 
 wget https://github.com/yt-dlp/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz

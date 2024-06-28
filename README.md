@@ -193,23 +193,23 @@ Custom Search Tools
 
 Templates for OSINT Flowcharts and Documents
 
-BigggChungus onion-links - 2024 Dark Web Links & .Onion Links
+[BigggChungus onion-links](https://github.com/BigggChungus/onion-links.git) - 2024 Dark Web Links & .Onion Links
 
-01Kevin01 OnionLinksV3 - 2024 Onion Links V3 (Forum&Chat&Markets)
+[01Kevin01 OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3.git) - 2024 Onion Links V3 (Forum&Chat&Markets)
 
-fastfire deepdarkCTI - Collection of Cyber Threat Intelligence sources from the deep and dark web 
+[fastfire deepdarkCTI](https://github.com/fastfire/deepdarkCTI.git) - Collection of Cyber Threat Intelligence sources from the deep and dark web 
 
-cipher387 osint_stuff_tool_collection - A collection of several hundred online tools for OSINT 
+[cipher387 osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection.git) - A collection of several hundred online tools for OSINT 
 
-cipher387 Dorks-collections-list - List of Github repositories and articles with list of dorks for different search engines 
+[cipher387 Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list.git) - List of Github repositories and articles with list of dorks for different search engines 
 
-cipher387 WebCam-Google-Shodan-Dorks - Google & Shodan Dorks for WebCam
+[cipher387 WebCam-Google-Shodan-Dorks](https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks.git)  - Google & Shodan Dorks for WebCam
 
-cipher387 cheatsheets - High quality and text versions of cheat sheets from Cyber Detective Twitter 
+[cipher387 cheatsheets](https://github.com/cipher387/cheatsheets.git) - High quality and text versions of cheat sheets from Cyber Detective Twitter
 
-swisskyrepo InternalAllTheThings - Active Directory and Internal Pentest Cheatsheets 
+[swisskyrepo InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings.git) - Active Directory and Internal Pentest Cheatsheets 
 
-andrewjkerr security-cheatsheets - A collection of cheatsheets for various infosec tools and topics. 
+[andrewjkerr security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets.git) - A collection of cheatsheets for various infosec tools and topics. 
 
 
 

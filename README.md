@@ -186,7 +186,7 @@ Go Packages:
 
 - sudo snap install powershell --classic
 
-- Sherloq is not installed. Edit the requirements.txt file. Change python-magic==0.4.* rawpy==0.17.* to python-magic and rawpy.
+- [Sherloq](https://github.com/GuidoBartoli/sherloq.git) is not installed. Edit the requirements.txt file. Change python-magic==0.4.* rawpy==0.17.* to python-magic and rawpy.
 
 - Activate the python venv "source sherloqEnvironment/bin/activate" and run "pip install -r requirements.txt" 
 

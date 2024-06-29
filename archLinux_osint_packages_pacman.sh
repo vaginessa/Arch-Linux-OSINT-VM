@@ -8,7 +8,7 @@ pacman -S go postgresql ngrep yt-dlp
 pacman -S nmap tcpdump php audacity gimp
 pacman -S librecad libreoffice mimikatz
 pacman -S cherrytree ripgrep wordlister crunch hashcat
-pacman -S dbeaver proxychains tor
+pacman -S dbeaver proxychains tor powersploit
 pacman -S vlc mpv mat2 sequoia-sq
 pacman -S marble qgis finalrecon ugrep bloodhound bing-ip2hosts
 pacman -S thunderbird exiflooter flowblade

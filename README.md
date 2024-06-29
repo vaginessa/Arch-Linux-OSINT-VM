@@ -178,6 +178,8 @@ Go Packages:
 
 ## Note:
 
+- The BlackArch-Stego package stegolego is corrupt. Do not install.
+
 - I have noticed archLinux_osint_packages_snapd.sh will fail to run. "Error: too early for operation, device not yet seeded." If this happens just run the script again.
 
 - I have also noticed archLinux_osint_packages_snapd.sh will fail to install powershell sometimes. "Error: too early for operation, device not yet seeded."

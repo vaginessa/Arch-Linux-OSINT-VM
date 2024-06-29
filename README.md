@@ -178,11 +178,17 @@ Go Packages:
 
 ## Note:
 
-I have noticed archLinux_osint_packages_snapd.sh will fail to install powershell.
+- I have noticed archLinux_osint_packages_snapd.sh will fail to run. "Error: too early for operation, device not yet seeded." If this happens just run the script again.
+
+- I have also noticed archLinux_osint_packages_snapd.sh will fail to install powershell sometimes. "Error: too early for operation, device not yet seeded."
 
 If that happens, just run the following command
 
 sudo snap install powershell --classic
+
+- Sherloq is not installed. Edit the requirements.txt file. Change python-magic==0.4.* rawpy==0.17.* to python-magic and rawpy.
+
+- Activate the python venv "source sherloqEnvironment/bin/activate" and run "pip install -r requirements.txt" 
 
 
 ## Resources

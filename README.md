@@ -71,7 +71,8 @@ GitHub Repositories:
 [agg](https://github.com/asciinema/agg.git),
 [proxybroker2](https://github.com/bluet/proxybroker2.git),
 [yt-dlp](https://github.com/yt-dlp/yt-dlp),
-[GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz.git)
+[GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz.git),
+[X-osint](https://github.com/TermuxHackz/X-osint.git)
 
 
 Pacman Package Manager:

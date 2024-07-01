@@ -160,6 +160,7 @@ git clone https://github.com/cipher387/Dorks-collections-list.git
 git clone https://github.com/cipher387/osint_stuff_tool_collection.git
 git clone https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks.git
 git clone https://github.com/cipher387/cheatsheets.git
+git clone https://github.com/vaib25vicky/awesome-mobile-security.git
 
 mkdir tor-links
 cd tor-links

@@ -23,6 +23,7 @@ pipx install checkdmarc
 pipx install netlas
 pipx install postleaks
 pipx install postleaksNg
+pipx install androguard
 pipx ensurepath
 
 cd

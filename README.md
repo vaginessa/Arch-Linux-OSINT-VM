@@ -311,7 +311,7 @@ bash go.sh
 
 ## Custom Search Tools
 
-extract custom_search_tools.tar.gz to your ~/Desktop directory
+extract custom_search_tools.tar.gz and osint_bookmarks.tar.gz to your ~/Desktop directory
 
 Open your browser
 

@@ -178,8 +178,8 @@ Go Packages:
 [gowitness](https://github.com/sensepost/gowitness),
 [katana](https://github.com/projectdiscovery/katana),
 [gotop](https://github.com/xxxserxxx/gotop),
-[ApkUrlGrep](https://github.com/ndelphit/apkurlgrep)
-[httpstat](https://github.com/davecheney/httpstat)
+[ApkUrlGrep](https://github.com/ndelphit/apkurlgrep),
+[httpstat](https://github.com/davecheney/httpstat),
 [hauditor](https://github.com/trap-bytes/hauditor)
 
 

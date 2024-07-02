@@ -232,7 +232,7 @@ Templates for OSINT Flowcharts and Documents
 
 ## Custom Search Tools
 
-extract custom_search_tools.tar.gz and osint_bookmarks.tar.gz to your ~/Desktop directory
+extract Custom_Search_Tools.tar.gz and OSINT_Bookmarks.tar.gz to your ~/Desktop directory
 
 Open your browser
 

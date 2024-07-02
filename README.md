@@ -73,7 +73,9 @@ GitHub Repositories:
 [proxybroker2](https://github.com/bluet/proxybroker2.git),
 [yt-dlp](https://github.com/yt-dlp/yt-dlp),
 [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz.git),
-[X-osint](https://github.com/TermuxHackz/X-osint.git)
+[X-osint](https://github.com/TermuxHackz/X-osint.git),
+[Eyes](https://github.com/C3n7ral051nt4g3ncy/Eyes),
+[creepyCrawler](https://github.com/chm0dx/creepyCrawler)
 
 
 Pacman Package Manager:

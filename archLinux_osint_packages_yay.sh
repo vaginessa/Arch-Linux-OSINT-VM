@@ -7,7 +7,6 @@ yay python-sqlglot
 yay mycli
 yay idle
 yay dumpsterdiver
-yay joplin-appimage
 yay google-earth-pro
 yay google-chrome
 yay drawio

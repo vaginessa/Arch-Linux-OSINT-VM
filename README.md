@@ -77,6 +77,7 @@ GitHub Repositories:
 [Eyes](https://github.com/C3n7ral051nt4g3ncy/Eyes),
 [creepyCrawler](https://github.com/chm0dx/creepyCrawler),
 [TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy)
+[BBot](https://github.com/blacklanternsecurity/bbot)
 
 
 Pacman Package Manager:

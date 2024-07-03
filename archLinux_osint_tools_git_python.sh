@@ -163,6 +163,11 @@ pip install setuptools
 pip install shodan
 deactivate
 
+python -m venv TREAVORproxy
+source TREAVORproxy/bin/activate
+pip install git+https://github.com/blacklanternsecurity/trevorproxy
+deactivate
+
 
 
 wget https://github.com/yt-dlp/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz

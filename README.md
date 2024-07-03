@@ -76,6 +76,7 @@ GitHub Repositories:
 [X-osint](https://github.com/TermuxHackz/X-osint.git),
 [Eyes](https://github.com/C3n7ral051nt4g3ncy/Eyes),
 [creepyCrawler](https://github.com/chm0dx/creepyCrawler)
+[TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy)
 
 
 Pacman Package Manager:

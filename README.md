@@ -36,7 +36,8 @@ Python(pipx):
 [recoverpy](https://github.com/PabloLec/recoverpy),
 [postleaks](https://github.com/cosad3s/postleaks),
 [postleaksNg](https://github.com/six2dez/postleaksNg),
-[Androguard](https://github.com/androguard/androguard)
+[Androguard](https://github.com/androguard/androguard),
+[BBot](https://github.com/blacklanternsecurity/bbot)
 
 
 GitHub Repositories:
@@ -77,7 +78,6 @@ GitHub Repositories:
 [Eyes](https://github.com/C3n7ral051nt4g3ncy/Eyes),
 [creepyCrawler](https://github.com/chm0dx/creepyCrawler),
 [TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy)
-[BBot](https://github.com/blacklanternsecurity/bbot)
 
 
 Pacman Package Manager:

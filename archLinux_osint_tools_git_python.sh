@@ -151,6 +151,7 @@ source EyesEnv/bin/activate
 pip install -r requirements.txt
 deactivate
 
+cd ~/programs/
 python3 -m venv proxybroker2
 source proxybroker2/bin/activate
 pip install -U git+https://github.com/bluet/proxybroker2.git

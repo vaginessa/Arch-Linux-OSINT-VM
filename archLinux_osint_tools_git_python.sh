@@ -169,6 +169,10 @@ source TREAVORproxy/bin/activate
 pip install git+https://github.com/blacklanternsecurity/trevorproxy
 deactivate
 
+python -m venv pyGPT_venv
+source pyGPT_venv/bin/activate
+pip install pygpt-net
+deactivate
 
 
 wget https://github.com/yt-dlp/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz

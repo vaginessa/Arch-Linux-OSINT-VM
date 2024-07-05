@@ -337,6 +337,12 @@ bash go.sh
 cargo install aichat
 ```
 
+or
+
+```console
+yay -S aichat
+```
+
 
 
 ## **firefox extensions:**

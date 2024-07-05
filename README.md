@@ -77,7 +77,7 @@ GitHub Repositories:
 [X-osint](https://github.com/TermuxHackz/X-osint.git),
 [Eyes](https://github.com/C3n7ral051nt4g3ncy/Eyes),
 [creepyCrawler](https://github.com/chm0dx/creepyCrawler),
-[TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy)
+[TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy),
 [PyGPT](https://github.com/szczyglis-dev/py-gpt)
 
 

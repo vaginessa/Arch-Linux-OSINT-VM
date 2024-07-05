@@ -331,6 +331,8 @@ bash go.sh
 
 <a href="https://rustup.rs/">Rustup</a> an installer for the systems programming language Rust
 
+[AIChat: All-in-one AI CLI Too](https://github.com/sigoden/aichat)
+
 
 
 ## **firefox extensions:**

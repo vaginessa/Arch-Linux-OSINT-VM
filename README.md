@@ -185,7 +185,7 @@ Go Packages:
 [gotop](https://github.com/xxxserxxx/gotop),
 [ApkUrlGrep](https://github.com/ndelphit/apkurlgrep),
 [httpstat](https://github.com/davecheney/httpstat),
-[hauditor](https://github.com/trap-bytes/hauditor)
+[hauditor](https://github.com/trap-bytes/hauditor),
 [gungnir](https://github.com/g0ldencybersec/gungnir)
 
 

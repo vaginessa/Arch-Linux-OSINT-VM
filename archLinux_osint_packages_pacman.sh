@@ -21,8 +21,5 @@ pacman -S kismet bettercap routersploit
 pacman -S burpsuite
 pacman -S sn0int sqlitebrowser hydra wifite
 pacman -S reaver bully cowpatty pyrit macchanger hcxdumptool hcxtools john
-
-gem install wpscan
-
 systemctl start sshd
 systemctl enable sshd

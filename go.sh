@@ -10,3 +10,4 @@ go install github.com/xxxserxxx/gotop/v4/cmd/gotop@latest
 go install github.com/ndelphit/apkurlgrep@latest
 go install github.com/davecheney/httpstat@latest
 go install github.com/trap-bytes/hauditor@latest
+go install github.com/g0ldencybersec/gungnir/cmd/gungnir@latest

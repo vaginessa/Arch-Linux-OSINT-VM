@@ -186,6 +186,7 @@ Go Packages:
 [ApkUrlGrep](https://github.com/ndelphit/apkurlgrep),
 [httpstat](https://github.com/davecheney/httpstat),
 [hauditor](https://github.com/trap-bytes/hauditor)
+[gungnir](https://github.com/g0ldencybersec/gungnir)
 
 
 ## Note:

@@ -11,3 +11,4 @@ go install github.com/ndelphit/apkurlgrep@latest
 go install github.com/davecheney/httpstat@latest
 go install github.com/trap-bytes/hauditor@latest
 go install github.com/g0ldencybersec/gungnir/cmd/gungnir@latest
+go install github.com/tantosec/oneshell@latest

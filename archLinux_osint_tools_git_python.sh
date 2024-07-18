@@ -208,3 +208,6 @@ cd Pictures
 mkdir wallpapers
 cd wallpapers
 git clone https://github.com/pablocorbalann/arch-minimal-wallpapers.git
+
+cd
+curl -o ronin-install.sh https://raw.githubusercontent.com/ronin-rb/scripts/main/ronin-install.sh && bash ronin-install.sh

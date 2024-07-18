@@ -13,4 +13,3 @@ yay drawio
 yay snapd
 yay protonvpn-cli-community
 gem install wpscan
-gem install ronin-recon

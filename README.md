@@ -79,7 +79,8 @@ GitHub Repositories:
 [creepyCrawler](https://github.com/chm0dx/creepyCrawler),
 [TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy),
 [PyGPT](https://github.com/szczyglis-dev/py-gpt),
-[BlueSpy](https://github.com/TarlogicSecurity/BlueSpy)
+[BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
+[ronin-recon](https://github.com/ronin-rb/ronin-recon)
 
 
 Pacman Package Manager:

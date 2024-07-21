@@ -25,6 +25,7 @@ pipx install postleaks
 pipx install postleaksNg
 pipx install androguard
 pipx install bbot
+pipx install toutatis
 pipx ensurepath
 
 cd

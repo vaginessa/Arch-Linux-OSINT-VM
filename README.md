@@ -153,7 +153,8 @@ burpsuite,
 sn0int,
 yt-dlp,
 netcat,
-kismet, bettercap, routersploit, sqlitebrowser, hydra, wifite, reaver, bully, cowpatty, pyrit, macchanger, hcxdumptool, hcxtools, john
+kismet, bettercap, routersploit, sqlitebrowser, hydra, wifite, reaver, bully, cowpatty, pyrit, macchanger, hcxdumptool, hcxtools, john,
+mongodb, nosqlattack, nosqli-user-pass-enum, remmina, smbclient
 
 Yay Package Manager:
 

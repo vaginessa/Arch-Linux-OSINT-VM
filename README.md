@@ -38,7 +38,8 @@ Python(pipx):
 [postleaksNg](https://github.com/six2dez/postleaksNg),
 [Androguard](https://github.com/androguard/androguard),
 [BBot](https://github.com/blacklanternsecurity/bbot),
-[toutatis](https://github.com/megadose/toutatis)
+[toutatis](https://github.com/megadose/toutatis),
+[poetry](https://pypi.org/project/poetry/)
 
 
 GitHub Repositories:
@@ -81,7 +82,8 @@ GitHub Repositories:
 [TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy),
 [PyGPT](https://github.com/szczyglis-dev/py-gpt),
 [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
-[ronin-recon](https://github.com/ronin-rb/ronin-recon)
+[ronin-recon](https://github.com/ronin-rb/ronin-recon),
+[DPULSE](https://github.com/OSINT-TECHNOLOGIES/dpulse)
 
 
 Pacman Package Manager:
@@ -191,6 +193,12 @@ Go Packages:
 [hauditor](https://github.com/trap-bytes/hauditor),
 [gungnir](https://github.com/g0ldencybersec/gungnir),
 [oneshell](https://github.com/tantosec/oneshell)
+
+Npm Packages:
+
+[ftp-spider](https://github.com/j3lte/ftp-spider)
+[redis-cli](https://github.com/lujiajing1126/redis-cli)
+
 
 
 ## Note:

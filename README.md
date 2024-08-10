@@ -154,7 +154,7 @@ sn0int,
 yt-dlp,
 netcat,
 kismet, bettercap, routersploit, sqlitebrowser, hydra, wifite, reaver, bully, cowpatty, pyrit, macchanger, hcxdumptool, hcxtools, john,
-mongodb, nosqlattack, nosqli-user-pass-enum, remmina, smbclient, freerdp
+mongodb, nosqlattack, nosqli-user-pass-enum, remmina, smbclient, freerdp, nosqlmap, mongoaudit
 
 Yay Package Manager:
 

@@ -171,7 +171,7 @@ google-earth-pro,
 google-chrome,
 drawio,
 snapd,
-protonvpn-cli-community
+protonvpn-cli-community,
 mongodb-bin
 
 Snap Packages:

@@ -21,7 +21,7 @@ pacman -S kismet bettercap routersploit
 pacman -S burpsuite
 pacman -S sn0int sqlitebrowser hydra wifite
 pacman -S reaver bully cowpatty pyrit macchanger hcxdumptool hcxtools john
-pacman -S mongodb nosqlattack nosqli-user-pass-enum remmina smbclient
+pacman -S mongodb nosqlattack nosqli-user-pass-enum remmina smbclient nosqlmap
 systemctl start sshd
 systemctl enable sshd
 npm install -g redis-cli

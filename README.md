@@ -226,8 +226,6 @@ Custom Search Tools
 
 Templates for OSINT Flowcharts and Documents
 
-[BigggChungus onion-links](https://github.com/BigggChungus/onion-links.git) - 2024 Dark Web Links & .Onion Links
-
 [01Kevin01 OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3.git) - 2024 Onion Links V3 (Forum&Chat&Markets)
 
 [fastfire deepdarkCTI](https://github.com/fastfire/deepdarkCTI.git) - Collection of Cyber Threat Intelligence sources from the deep and dark web 

@@ -194,7 +194,6 @@ git clone https://github.com/vaib25vicky/awesome-mobile-security.git
 
 mkdir tor-links
 cd tor-links
-git clone https://github.com/BigggChungus/onion-links.git
 git clone https://github.com/01Kevin01/OnionLinksV3.git
 git clone https://github.com/fastfire/deepdarkCTI.git
  

@@ -80,7 +80,6 @@ GitHub Repositories:
 [Eyes](https://github.com/C3n7ral051nt4g3ncy/Eyes),
 [creepyCrawler](https://github.com/chm0dx/creepyCrawler),
 [TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy),
-[PyGPT](https://github.com/szczyglis-dev/py-gpt),
 [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
 [ronin-recon](https://github.com/ronin-rb/ronin-recon),
 [DPULSE](https://github.com/OSINT-TECHNOLOGIES/dpulse)
